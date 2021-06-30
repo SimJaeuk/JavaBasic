@@ -14,7 +14,8 @@ public class ArrayCreateNewExam {
 		for(int i=0; i<3; i++) {
 			sum += scores[i];
 		}
-		System.out.println(sum);
+		System.
+		out.println(sum);
 		
 		double avg = (double) sum / 3;
 		System.out.println(avg);
