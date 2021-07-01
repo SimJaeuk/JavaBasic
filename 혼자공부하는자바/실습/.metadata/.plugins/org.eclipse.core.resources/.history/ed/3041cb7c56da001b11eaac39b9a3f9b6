@@ -1,0 +1,10 @@
+package Array;
+
+public class ArrayCopyByForExam {
+
+	public static void main(String[] args) {
+		int[] oldIntArray = { 1, 2, 3 };
+
+	}
+
+}

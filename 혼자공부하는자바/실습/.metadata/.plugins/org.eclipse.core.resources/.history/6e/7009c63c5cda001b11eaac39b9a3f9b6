@@ -1,0 +1,12 @@
+package enumeration;
+
+import java.util.Calendar;
+
+public class EnumWeekExam {
+
+	public static void main(String[] args) {
+		Week Today = null;
+		
+	}
+
+}

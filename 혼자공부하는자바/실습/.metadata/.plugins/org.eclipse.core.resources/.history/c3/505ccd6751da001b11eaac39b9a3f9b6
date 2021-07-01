@@ -1,0 +1,10 @@
+package Array;
+
+public class ArrayLengthExam {
+
+	public static void main(String[] args) {
+		int[] scores = {83, 87, 90}
+
+	}
+
+}

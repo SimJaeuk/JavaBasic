@@ -1,0 +1,14 @@
+package enumeration;
+
+import java.util.Calendar;
+
+public class EnumWeekExam {
+
+	public static void main(String[] args) {
+		Week Today = null;
+		
+		Calendar cal = Calendar.getInstance();
+		int week = cal.get(Calender.DAY_OF_WEEK);
+	}
+
+}

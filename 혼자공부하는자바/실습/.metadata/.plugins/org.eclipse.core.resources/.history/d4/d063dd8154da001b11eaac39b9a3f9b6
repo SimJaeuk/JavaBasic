@@ -1,0 +1,10 @@
+package Array;
+
+public class ArrayInArrayExam {
+
+	public static void main(String[] args) {
+		int[][] mathScores = new int[2][3];
+
+	}
+
+}
