@@ -14,7 +14,7 @@ public class GetLineStringFromKeyboard {
 			String lineStr = br.readLine();
 			if(lineStr.equals("q") || lineStr.equals("quit")) break;
 			System.out.print("입력된내용: " + lineStr);
-			System.out.println();
+			System.out.println(); 
 		}
 		
 		br.close();
