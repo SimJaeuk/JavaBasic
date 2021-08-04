@@ -1,4 +1,4 @@
-package kr.co.infopub.hello;
+package kr.co.infopub.method;
 
 import static java.lang.Math.sqrt;
 
