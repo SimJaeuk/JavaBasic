@@ -28,7 +28,7 @@ public class DateConversion {
         // Exception Handling
         String st = sdf.format(dd);
         Date d2 = new Date();
-        
+
         try {
             d2 = sdf.parse(st);
         } catch (
